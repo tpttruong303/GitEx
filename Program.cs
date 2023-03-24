@@ -12,6 +12,7 @@ namespace GitEx
         {
             Console.WriteLine("Hello");
             Console.WriteLine("!");
+            Console.WriteLine("Ngu vlz");
             Console.Read();
         }
     }
