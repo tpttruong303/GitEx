@@ -11,6 +11,7 @@ namespace GitEx
         public static void Main(string[] args) 
         {
             Console.WriteLine("Hello");
+            Console.WriteLine("!");
             Console.Read();
         }
     }
